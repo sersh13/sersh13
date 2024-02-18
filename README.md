@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Аналитик данных, Продуктовый Аналитик, BI-Аналитик </h3>
 
+### О себе:
 - 👋 Hi, I’m @sersh13
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
