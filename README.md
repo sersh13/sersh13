@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Привет всем, меня зовут <a href="https://t.me/sersh_13" target="_blank">Сергей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Аналитик данных, Продуктовый Аналитик, BI-Аналитик </h3>
 
 - 👋 Hi, I’m @sersh13
 - 👀 I’m interested in ...
